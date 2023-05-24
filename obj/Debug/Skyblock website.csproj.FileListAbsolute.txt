@@ -1,0 +1,370 @@
+E:\Skyblock website\bin\Skyblock website.dll.config
+E:\Skyblock website\bin\Skyblock website.dll
+E:\Skyblock website\bin\Skyblock website.pdb
+E:\Skyblock website\bin\roslyn\csc.exe
+E:\Skyblock website\bin\roslyn\csc.exe.config
+E:\Skyblock website\bin\roslyn\csc.rsp
+E:\Skyblock website\bin\roslyn\csi.exe
+E:\Skyblock website\bin\roslyn\csi.exe.config
+E:\Skyblock website\bin\roslyn\csi.rsp
+E:\Skyblock website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Skyblock website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Skyblock website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Skyblock website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Skyblock website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Skyblock website\bin\roslyn\System.AppContext.dll
+E:\Skyblock website\bin\roslyn\System.Collections.Immutable.dll
+E:\Skyblock website\bin\roslyn\System.Console.dll
+E:\Skyblock website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Skyblock website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Skyblock website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Skyblock website\bin\roslyn\System.Globalization.Calendars.dll
+E:\Skyblock website\bin\roslyn\System.IO.Compression.dll
+E:\Skyblock website\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Skyblock website\bin\roslyn\System.IO.FileSystem.dll
+E:\Skyblock website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Skyblock website\bin\roslyn\System.Net.Http.dll
+E:\Skyblock website\bin\roslyn\System.Net.Sockets.dll
+E:\Skyblock website\bin\roslyn\System.Reflection.Metadata.dll
+E:\Skyblock website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Skyblock website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Skyblock website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Skyblock website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Skyblock website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Skyblock website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Skyblock website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Skyblock website\bin\roslyn\System.ValueTuple.dll
+E:\Skyblock website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Skyblock website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Skyblock website\bin\roslyn\System.Xml.XPath.dll
+E:\Skyblock website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Skyblock website\bin\roslyn\vbc.exe
+E:\Skyblock website\bin\roslyn\vbc.exe.config
+E:\Skyblock website\bin\roslyn\vbc.rsp
+E:\Skyblock website\bin\roslyn\VBCSCompiler.exe
+E:\Skyblock website\bin\roslyn\VBCSCompiler.exe.config
+E:\Skyblock website\bin\Antlr3.Runtime.dll
+E:\Skyblock website\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Skyblock website\bin\AspNet.ScriptManager.jQuery.dll
+E:\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Skyblock website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Skyblock website\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Skyblock website\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Skyblock website\bin\Microsoft.Web.Infrastructure.dll
+E:\Skyblock website\bin\Newtonsoft.Json.dll
+E:\Skyblock website\bin\System.Web.Optimization.dll
+E:\Skyblock website\bin\WebGrease.dll
+E:\Skyblock website\bin\System.Web.Optimization.xml
+E:\Skyblock website\bin\Newtonsoft.Json.xml
+E:\Skyblock website\bin\Antlr3.Runtime.pdb
+E:\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Skyblock website\obj\Debug\Skyblock website.csproj.AssemblyReference.cache
+E:\Skyblock website\obj\Debug\Skyblock website.csproj.CoreCompileInputs.cache
+E:\Skyblock website\obj\Debug\Skyblock website.csproj.CopyComplete
+E:\Skyblock website\obj\Debug\Skyblock website.dll
+E:\Skyblock website\obj\Debug\Skyblock website.pdb
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Skyblock website.dll.config
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Skyblock website.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Skyblock website.pdb
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csc.exe
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csc.exe.config
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csc.rsp
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csi.exe
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csi.exe.config
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\csi.rsp
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.AppContext.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Collections.Immutable.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Console.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Globalization.Calendars.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.IO.Compression.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.IO.FileSystem.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Net.Http.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Net.Sockets.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.ValueTuple.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Xml.XPath.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\vbc.exe
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\vbc.exe.config
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\vbc.rsp
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\VBCSCompiler.exe
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\roslyn\VBCSCompiler.exe.config
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Antlr3.Runtime.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\AspNet.ScriptManager.jQuery.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.Web.Infrastructure.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Newtonsoft.Json.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\System.Web.Optimization.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\WebGrease.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\System.Web.Optimization.xml
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Newtonsoft.Json.xml
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Antlr3.Runtime.pdb
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\obj\Debug\Skyblock website.csproj.AssemblyReference.cache
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\obj\Debug\Skyblock website.csproj.CoreCompileInputs.cache
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\obj\Debug\Skyblock website.csproj.CopyComplete
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\obj\Debug\Skyblock website.dll
+D:\Document\Downloads\Skyblock website-20221230T061635Z-001\Skyblock website\obj\Debug\Skyblock website.pdb
+E:\אתר\Trol\Skyblock website\bin\Skyblock website.dll.config
+E:\אתר\Trol\Skyblock website\bin\Skyblock website.dll
+E:\אתר\Trol\Skyblock website\bin\Skyblock website.pdb
+E:\אתר\Trol\Skyblock website\bin\roslyn\csc.exe
+E:\אתר\Trol\Skyblock website\bin\roslyn\csc.exe.config
+E:\אתר\Trol\Skyblock website\bin\roslyn\csc.rsp
+E:\אתר\Trol\Skyblock website\bin\roslyn\csi.exe
+E:\אתר\Trol\Skyblock website\bin\roslyn\csi.exe.config
+E:\אתר\Trol\Skyblock website\bin\roslyn\csi.rsp
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\אתר\Trol\Skyblock website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.AppContext.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Collections.Immutable.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Console.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Globalization.Calendars.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.IO.Compression.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.IO.FileSystem.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Net.Http.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Net.Sockets.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Reflection.Metadata.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.ValueTuple.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Xml.XPath.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\אתר\Trol\Skyblock website\bin\roslyn\vbc.exe
+E:\אתר\Trol\Skyblock website\bin\roslyn\vbc.exe.config
+E:\אתר\Trol\Skyblock website\bin\roslyn\vbc.rsp
+E:\אתר\Trol\Skyblock website\bin\roslyn\VBCSCompiler.exe
+E:\אתר\Trol\Skyblock website\bin\roslyn\VBCSCompiler.exe.config
+E:\אתר\Trol\Skyblock website\bin\Antlr3.Runtime.dll
+E:\אתר\Trol\Skyblock website\bin\AspNet.ScriptManager.bootstrap.dll
+E:\אתר\Trol\Skyblock website\bin\AspNet.ScriptManager.jQuery.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.ScriptManager.WebForms.dll
+E:\אתר\Trol\Skyblock website\bin\Microsoft.Web.Infrastructure.dll
+E:\אתר\Trol\Skyblock website\bin\Newtonsoft.Json.dll
+E:\אתר\Trol\Skyblock website\bin\System.Web.Optimization.dll
+E:\אתר\Trol\Skyblock website\bin\WebGrease.dll
+E:\אתר\Trol\Skyblock website\bin\System.Web.Optimization.xml
+E:\אתר\Trol\Skyblock website\bin\Newtonsoft.Json.xml
+E:\אתר\Trol\Skyblock website\bin\Antlr3.Runtime.pdb
+E:\אתר\Trol\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\אתר\Trol\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\אתר\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.AssemblyReference.cache
+E:\אתר\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.CoreCompileInputs.cache
+E:\אתר\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.CopyComplete
+E:\אתר\Trol\Skyblock website\obj\Debug\Skyblock website.dll
+E:\אתר\Trol\Skyblock website\obj\Debug\Skyblock website.pdb
+E:\עבודות\yes\Trol\Skyblock website\bin\Skyblock website.dll.config
+E:\עבודות\yes\Trol\Skyblock website\bin\Skyblock website.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Skyblock website.pdb
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csc.exe
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csc.exe.config
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csc.rsp
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csi.exe
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csi.exe.config
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\csi.rsp
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.AppContext.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Collections.Immutable.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Console.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Globalization.Calendars.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.IO.Compression.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.IO.FileSystem.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Net.Http.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Net.Sockets.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Reflection.Metadata.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.ValueTuple.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Xml.XPath.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\vbc.exe
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\vbc.exe.config
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\vbc.rsp
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\VBCSCompiler.exe
+E:\עבודות\yes\Trol\Skyblock website\bin\roslyn\VBCSCompiler.exe.config
+E:\עבודות\yes\Trol\Skyblock website\bin\Antlr3.Runtime.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\AspNet.ScriptManager.bootstrap.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\AspNet.ScriptManager.jQuery.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.ScriptManager.WebForms.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.Web.Infrastructure.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\Newtonsoft.Json.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\System.Web.Optimization.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\WebGrease.dll
+E:\עבודות\yes\Trol\Skyblock website\bin\System.Web.Optimization.xml
+E:\עבודות\yes\Trol\Skyblock website\bin\Newtonsoft.Json.xml
+E:\עבודות\yes\Trol\Skyblock website\bin\Antlr3.Runtime.pdb
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\עבודות\yes\Trol\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\עבודות\yes\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.AssemblyReference.cache
+E:\עבודות\yes\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.CoreCompileInputs.cache
+E:\עבודות\yes\Trol\Skyblock website\obj\Debug\Skyblock website.csproj.CopyComplete
+E:\עבודות\yes\Trol\Skyblock website\obj\Debug\Skyblock website.dll
+E:\עבודות\yes\Trol\Skyblock website\obj\Debug\Skyblock website.pdb
+D:\Skyblock website\bin\Skyblock website.dll.config
+D:\Skyblock website\bin\Skyblock website.dll
+D:\Skyblock website\bin\Skyblock website.pdb
+D:\Skyblock website\bin\roslyn\csc.exe
+D:\Skyblock website\bin\roslyn\csc.exe.config
+D:\Skyblock website\bin\roslyn\csc.rsp
+D:\Skyblock website\bin\roslyn\csi.exe
+D:\Skyblock website\bin\roslyn\csi.exe.config
+D:\Skyblock website\bin\roslyn\csi.rsp
+D:\Skyblock website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Skyblock website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Skyblock website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Skyblock website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Skyblock website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Skyblock website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Skyblock website\bin\roslyn\System.AppContext.dll
+D:\Skyblock website\bin\roslyn\System.Collections.Immutable.dll
+D:\Skyblock website\bin\roslyn\System.Console.dll
+D:\Skyblock website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Skyblock website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Skyblock website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Skyblock website\bin\roslyn\System.Globalization.Calendars.dll
+D:\Skyblock website\bin\roslyn\System.IO.Compression.dll
+D:\Skyblock website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Skyblock website\bin\roslyn\System.IO.FileSystem.dll
+D:\Skyblock website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Skyblock website\bin\roslyn\System.Net.Http.dll
+D:\Skyblock website\bin\roslyn\System.Net.Sockets.dll
+D:\Skyblock website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Skyblock website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Skyblock website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Skyblock website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Skyblock website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Skyblock website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Skyblock website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Skyblock website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Skyblock website\bin\roslyn\System.ValueTuple.dll
+D:\Skyblock website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Skyblock website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Skyblock website\bin\roslyn\System.Xml.XPath.dll
+D:\Skyblock website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Skyblock website\bin\roslyn\vbc.exe
+D:\Skyblock website\bin\roslyn\vbc.exe.config
+D:\Skyblock website\bin\roslyn\vbc.rsp
+D:\Skyblock website\bin\roslyn\VBCSCompiler.exe
+D:\Skyblock website\bin\roslyn\VBCSCompiler.exe.config
+D:\Skyblock website\bin\Antlr3.Runtime.dll
+D:\Skyblock website\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Skyblock website\bin\AspNet.ScriptManager.jQuery.dll
+D:\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Skyblock website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Skyblock website\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Skyblock website\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Skyblock website\bin\Microsoft.Web.Infrastructure.dll
+D:\Skyblock website\bin\Newtonsoft.Json.dll
+D:\Skyblock website\bin\System.Web.Optimization.dll
+D:\Skyblock website\bin\WebGrease.dll
+D:\Skyblock website\bin\System.Web.Optimization.xml
+D:\Skyblock website\bin\Newtonsoft.Json.xml
+D:\Skyblock website\bin\Antlr3.Runtime.pdb
+D:\Skyblock website\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Skyblock website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Skyblock website\obj\Debug\Skyblock website.csproj.AssemblyReference.cache
+D:\Skyblock website\obj\Debug\Skyblock website.csproj.CoreCompileInputs.cache
+D:\Skyblock website\obj\Debug\Skyblock website.csproj.CopyComplete
+D:\Skyblock website\obj\Debug\Skyblock website.dll
+D:\Skyblock website\obj\Debug\Skyblock website.pdb
