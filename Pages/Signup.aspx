@@ -25,7 +25,7 @@
             else
                 document.getElementById("mUName").style.display = "none";
 
-            //--- שם פרטי קצר מדי או לא קיים ---
+            //first name is too short or doesn't exist
             var fName = document.getElementById("fName").value;
             if (fName.length < 2) {
                 document.getElementById("mFName").value = "First name doesn't exist or is too short ";
